@@ -1,4 +1,4 @@
-# webstorm-react-sass
+# webpack-react-sass
 ## 目的
 1.搭建react的开发环境
 
